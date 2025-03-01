@@ -7,3 +7,6 @@ Links of tools that are useful for every developer
 
 ## ER-Digram
 1. Eraser (https://app.eraser.io/)
+
+## Design 
+Figma (https://figma.com)
