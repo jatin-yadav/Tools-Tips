@@ -10,3 +10,6 @@ Links of tools that are useful for every developer
 
 ## Design 
 Figma (https://figma.com)
+
+## Industries App's 
+zera, slack 
