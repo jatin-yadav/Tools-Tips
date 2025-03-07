@@ -15,5 +15,5 @@ Figma (https://figma.com)
 zera, slack 
 
 ## API documentation 
-swagger, Postman 
+swagger, Postman , openAPI
 
