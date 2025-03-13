@@ -18,4 +18,4 @@ zera, slack
 swagger, Postman , openAPI
 
 ## For Containerising application 
-Docker 
+Docker, Kubernetes (K8s)
