@@ -19,3 +19,6 @@ swagger, Postman , openAPI
 
 ## For Containerising application 
 Docker, Kubernetes (K8s)
+
+## Cross platform 
+Flutter, React Native 
